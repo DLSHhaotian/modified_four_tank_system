@@ -1,4 +1,4 @@
-# modified_four_tank_system
+# Modified four tank system
 Model Predictive Control of the Modified Four Tank System
 - non-minimum phase system
 - deterministic and stochastic model
